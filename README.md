@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+⚡ **currently building** _special_ **stuff for @ArkiTechAi**
+
 <!--
 **nicodotdot/nicodotdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
